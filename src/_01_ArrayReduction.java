@@ -3,7 +3,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
-public class _01_LowCost {
+public class _01_ArrayReduction {
 
 	/**
 	 * Read n numbers and determine the lowest cost.
